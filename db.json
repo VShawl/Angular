@@ -1,13 +1,13 @@
 
 {
   "customers":[
-    {"name":Ted james,"place":"john","states":21,"orderId":1001,"totalCost":156},
-   {"name":Micheal Thompson,"place":"john","states":21,"orderId":1001,"totalCost":156},
-  {"name":Zed Bishop,"place":"john","states":21,"orderId":1001,"totalCost":156},
-  {"name":Derek,"place":"john","states":21,"orderId":1001,"totalCost":156},
- {"name":Stanley,"place":"john","states":21,"orderId":1001,"totalCost":156},
- {"name":Cristofer,"place":"john","states":21,"orderId":1001,"totalCost":156},
- {"name":Beauford,"place":"john","states":21,"orderId":1001,"totalCost":156},
- {"name":Belmont,"place":"john","states":21,"orderId":1001,"totalCost":156},
+    {"name":"Ted james","place":"john","states":21,"orderId":1001,"totalCost":156},
+   {"name":"Micheal Thompson","place":"john","states":21,"orderId":1001,"totalCost":156},
+  {"name":"Zed Bishop","place":"john","states":21,"orderId":1001,"totalCost":156},
+  {"name":"Derek","place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":"Stanley","place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":"Cristofer","place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":"Beauford","place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":"Belmont","place":"john","states":21,"orderId":1001,"totalCost":156}
   ]
 }
