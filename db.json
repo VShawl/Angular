@@ -1,6 +1,13 @@
+
 {
   "customers":[
-    {"id":1,"name":"john","age":21},
-    {"id":2,"name":"judy","age":31}
+    {"name":Ted james,"place":"john","states":21,"orderId":1001,"totalCost":156},
+   {"name":Micheal Thompson,"place":"john","states":21,"orderId":1001,"totalCost":156},
+  {"name":Zed Bishop,"place":"john","states":21,"orderId":1001,"totalCost":156},
+  {"name":Derek,"place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":Stanley,"place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":Cristofer,"place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":Beauford,"place":"john","states":21,"orderId":1001,"totalCost":156},
+ {"name":Belmont,"place":"john","states":21,"orderId":1001,"totalCost":156},
   ]
 }
