@@ -1,5 +1,5 @@
 
-{{
+{
   "customers":[
     {"name":"Ted james","place":"Charlotte","states":"South Carolina","orderId":1001,"totalCost":156},
    {"name":"Micheal Thompson","place":"Oklahoma","states":"Washington","orderId":1002,"totalCost":456},
