@@ -8,6 +8,6 @@
  {"name":"Stanley","place":"Los Angeles","states":"CA","orderId":1008,"totalCost":81},
  {"name":"Cristofer","place":"Sanfancrisco","states":"CA","orderId":1045,"totalCost":2006},
  {"name":"Beauford","place":"Arizona","states":"CA","orderId":1031,"totalCost":1596},
- {"name":"Belmont","place":"Area 51","states":"CA","orderId":1671,"totalCost":256},
+ {"name":"Belmont","place":"Area 51","states":"CA","orderId":1671,"totalCost":256}
   ]
 }
