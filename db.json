@@ -2,7 +2,7 @@
 {
   "customers":[
     {"name":"Ted james","place":"Charlotte","states":"South Carolina","orderId":1001,"totalCost":156},
-   {"name":"Micheal Thompson","place":"Oklahoma","states":"Washington","orderId":1002,"totalCost":456},
+   {"name":"Michael Bird","place":"Oklahoma","states":"Washington","orderId":1002,"totalCost":456},
   {"name":"Zed Bishop","place":"pheonix","states":"Nevada","orderId":1003,"totalCost":56},
   {"name":"Derek","place":"las vegas","states":"Nevada","orderId":1007,"totalCost":756},
  {"name":"Stanley","place":"Los Angeles","states":"CA","orderId":1008,"totalCost":81},
