@@ -1,21 +1,22 @@
-{
-  "customers":[
-    {"name":"Ted james","place":"Charlotte","states":"South Carolina","orderId":1001,"totalCost":156},
-   {"name":"Michael","place":"Oklahoma","states":"Washington","orderId":1001,"totalCost":156},
-  {"name":"Zed Bishop","place":"pheonix","states":"Nevada","orderId":1001,"totalCost":156},
-  {"name":"Derek","place":"las vegas","states":"Nevada","orderId":1001,"totalCost":156},
- {"name":"Stanley","place":"Los Angeles","states":21,"orderId":1001,"totalCost":156},
- {"name":"Cristofer","place":"Sanfancrisco","states":21,"orderId":1001,"totalCost":156},
- {"name":"Beauford","place":"Arizona","states":21,"orderId":1001,"totalCost":156},
- {"name":"Belmont","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Zachery","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Collin","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Karen","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Chloe","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Ziggery","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Ivan","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Mascarenhas","place":"Area 51","states":21,"orderId":1001,"totalCost":156},
- {"name":"Pete","place":"Area 51","states":21,"orderId":1001,"totalCost":156}
-
-  ]
-}
+[
+    {
+        "riskScenarioId": 7,
+        "riskScenarioName": "scenario1 updated",
+        "maximumRiskScore": 400
+    },
+    {
+        "riskScenarioId": 9,
+        "riskScenarioName": "scenario1304",
+        "maximumRiskScore": 400
+    },
+    {
+        "riskScenarioId": 8,
+        "riskScenarioName": "scenario1",
+        "maximumRiskScore": 400
+    },
+    {
+        "riskScenarioId": 10,
+        "riskScenarioName": "scenario1317",
+        "maximumRiskScore": 400
+    }
+]
